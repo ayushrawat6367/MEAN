@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head><title>LIST</title>
+</head>
+<body>
+<ol style="1">
+<ol>Fee defaulters</ol>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<ol>Deposited</ol>
+<li>q</li>
+<li>w</li>
+<li>e</li>
+<li>r</li>
+<li>t</li>
+<li>y</li>
+</ol>
+
+<marquee behavior="slide">A</marquee>
+<marquee behavior="alternate">A</marquee>
+<marquee behavior="scroll">A</marquee>
+</body>
+</html>
